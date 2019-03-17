@@ -1,0 +1,7 @@
+{
+  "name": "testshare",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
